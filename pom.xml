@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>HrApiDay08-HW</artifactId>
+    <artifactId>HrApiDay09-EV-HW </artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>HrApiDay08-HW</name>
+    <name>HrApiDay09-EV-HW </name>
 
     <build>
-        <finalName>HrApiDay08-HW</finalName>
+        <finalName>HrApiDay09-EV-HW </finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
